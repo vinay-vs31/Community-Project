@@ -16,3 +16,15 @@ This project aims to create awareness about cybercrime and digital fraud. It edu
 
 ## Purpose
 To help people stay safe online by providing cyber safety information and awareness about different types of digital fraud.
+## Live Application
+
+CyberShield – Cyber Safety and Digital Fraud Awareness App
+
+Application Link: https://cybershield-safe-digital-living.ai.studio/
+
+## Team Members
+
+1. Revanth B R
+2. Veeresh Kumar
+3. Raghvardhan
+4. Vinay S
